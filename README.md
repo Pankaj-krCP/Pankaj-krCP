@@ -47,7 +47,7 @@
 
 <hr>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pankaj-krcp&show_icons=true&locale=en" alt="pankaj-krcp" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=pankaj-krcp&show_icons=true&locale=en" alt="pankaj-krcp" /></p>
 
 <hr>
 
