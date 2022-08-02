@@ -10,7 +10,8 @@
 <hr>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pankaj-krcp&label=Profile%20views&color=0e75b6&style=flat" alt="pankaj-krcp" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pankaj-krcp" alt="pankaj-krcp" /></a> </p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Pankaj-krCP&amp;theme=dark&amp;)](https://github.com/ryo-ma/github-profile-trophy)
 
 <hr>
 
@@ -49,10 +50,10 @@
 <hr>
 
 <p dir="auto"><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> <strong>Profile Views</strong>
-<p><img src="https://github-readme-stats.vercel.app/api?username=pankaj-krcp&show_icons=true&locale=en&theme=solarized-dark" alt="pankaj-krcp" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=pankaj-krcp&show_icons=true&locale=en&theme=nightowl" alt="pankaj-krcp" /></p>
 
 <hr>
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=pankaj-krcp&theme=nightowl" alt="pankaj-krcp" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=pankaj-krcp&theme=solarized-dark" alt="pankaj-krcp" /></p>
 
 
 
