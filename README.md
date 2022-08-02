@@ -42,13 +42,17 @@
  </p>
  
 <hr>
- 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pankaj-krcp&show_icons=true&locale=en&layout=compact" alt="pankaj-krcp" /></p>
+<p dir="auto"><g-emoji class="g-emoji" alias="signal_strength" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4f6.png">📶</g-emoji> Stats<br><br></p>
+
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=pankaj-krcp&show_icons=true&locale=en&layout=compact&amp;theme=dark&amp;" alt="pankaj-krcp" /></p>
 
 <hr>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=pankaj-krcp&show_icons=true&locale=en" alt="pankaj-krcp" /></p>
+<p dir="auto"><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> <strong>Profile Views</strong>
+<p><img src="https://github-readme-stats.vercel.app/api?username=pankaj-krcp&show_icons=true&locale=en&theme=solarized-dark" alt="pankaj-krcp" /></p>
 
 <hr>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=pankaj-krcp&theme=nightowl" alt="pankaj-krcp" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pankaj-krcp&" alt="pankaj-krcp" /></p>
+
+
