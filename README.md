@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Pankaj Kumar</h1>
-<h3 align="center">I am a undergraduate currently pursuing my bachelors from ACEIT,Jaipur in Computer Science and Engineering</h3>
 
-- 🌱 I’m currently learning **Data Structure & Algorithm**
+<h3> 🌱 About Myself </h3>
+
+- ✔️I am an undergraduate currently pursuing my bachelor from ACEIT,Jaipur in Computer Science and Engineering</h3>
+
+- ✔️ I’m currently learning **Data Structure & Algorithm** and **Full Stack Development**
 
 - 💬 Ask me about **C++ & DSA**
 
