@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/81906340/182518938-ca6e6f5d-15d2-4fd7-8340-d576ce74001d.gif" height="250" width="100%"/>
+//<img src="https://user-images.githubusercontent.com/81906340/182518938-ca6e6f5d-15d2-4fd7-8340-d576ce74001d.gif" height="250" width="100%"/>
 
 <h1 align="center">Hi 👋, I'm Pankaj Kumar</h1>
 
