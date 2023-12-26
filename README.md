@@ -2,9 +2,9 @@
 
 <h3> 🌱 About Myself </h3>
 
-- ✔️I am an undergraduate currently pursuing my bachelor from ACEIT,Jaipur in Computer Science and Engineering</h3>
+- ✔️I have completed my btech from ACEIT,Jaipur in CSE batch'23</h3>
 
-- ✔️ I’m currently learning **Data Structure & Algorithm** and **Full Stack Development**
+- ✔️ I’m currently learning & going deep dive in **Data Structure & Algorithm**, **React** and **Node**
 
 - 💬 Ask me about **C++ & DSA**
 
