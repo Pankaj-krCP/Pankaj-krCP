@@ -51,12 +51,4 @@
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=pankaj-krcp&show_icons=true&locale=en&layout=compact&amp;theme=dark&amp;" alt="pankaj-krcp" /></p>
 
-<hr>
-
-<p><img src="https://github-readme-stats.vercel.app/api?username=pankaj-krcp&show_icons=true&locale=en&theme=nightowl" alt="pankaj-krcp" /></p>
-
-<hr>
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=pankaj-krcp&theme=solarized-dark" alt="pankaj-krcp" /></p>
-
-
 
