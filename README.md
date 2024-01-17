@@ -53,7 +53,6 @@
 
 <hr>
 
-<p dir="auto"><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> <strong>Profile Views</strong>
 <p><img src="https://github-readme-stats.vercel.app/api?username=pankaj-krcp&show_icons=true&locale=en&theme=nightowl" alt="pankaj-krcp" /></p>
 
 <hr>
