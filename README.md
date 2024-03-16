@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Pankaj Kumar</h1>
 
-<h3> 🌱 About Myself </h3>
+- ✔️ Completed btech in CSE batch'23
 
-- ✔️I have completed my btech from ACEIT,Jaipur in CSE batch'23</h3>
+- ✔️ Learning **Data Structure & Algorithm**, **React** and **Node**
 
-- ✔️ I’m currently learning & going deep dive in **Data Structure & Algorithm**, **React** and **Node**
-
-- 💬 Ask me about **C++ & DSA**
+- 💬 Ask me about **C++, Pyhton, JavaScript & DSA**
 
 - 📫 How to reach me **pankajkumar70792@gmail.com**
 
