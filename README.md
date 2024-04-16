@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Pankaj Kumar</h1>
 
-- ✔️ Completed btech in CSE batch'23
+- ✔️ Rajasthan Techincal University Graduate 2023
 
-- ✔️ Learning **Data Structure & Algorithm**, **React** and **Node**
-
-- 💬 Ask me about **C++, Pyhton, JavaScript & DSA**
+- ✔️ Building project in javascript full stack ...
 
 - 📫 How to reach me **pankajkumar70792@gmail.com**
 
