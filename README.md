@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pankaj Kumar</h1>
 
-- ✔️ Rajasthan Techincal University Graduate 2023
+- ✔️ Graduate 2023 from Rajasthan Techincal University
 
 - ✔️ Building project in javascript full stack ...
 
