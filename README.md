@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Pankaj Kumar</h1>
 
-- ✔️ Graduate 2023 from Rajasthan Techincal University
+- ✔️ 2023 Graduate from Rajasthan Techincal University
 
-- ✔️ Building project in javascript full stack ...
+- ✔️ Building project in JavaScript/TypeScript full stack ...
 
 - 📫 How to reach me **pankajkumar70792@gmail.com**
 
